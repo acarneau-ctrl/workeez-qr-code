@@ -1,2 +1,2 @@
 # workeez-qr-code
-Lisez comment ASSIFEP et WORKEEZ travaillent ensemble pour mettre l'emploi et la formation au cœur de leur réussite à travers notre article.
+Téléchargez l'application Workeez Connect en scannant le QR Code.
